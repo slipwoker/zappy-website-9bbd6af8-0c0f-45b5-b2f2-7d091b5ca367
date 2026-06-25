@@ -1,0 +1,104 @@
+# פרי הנורית — Generative Engine Optimization Map
+
+> An online store specializing in fruit trays and fruit arrangements, offering customers the ability to browse and purchase beautifully curated fruit platters directly through the website. The business focuses on fresh, visually appealing fruit presentations suitable for events, gifts, or personal enjoyment.
+
+---
+
+## Pages
+
+### בית
+https://-9bbd6af8.zappy5.app
+גלו מגוון מרהיב של מגשי פירות טריים ומעוצבים להזמנה אונליין. מושלם למתנות, אירועים או פינוק אישי. משלוח מהיר, רעננות מובטחת וטעם שאין שני לו. הזמינו עכשיו והפכו כל רגע לחגיגה!
+
+### מתנות לאירועים ולעסקים
+https://-9bbd6af8.zappy5.app/occasions-corporate-gifts
+הרשימו לקוחות ועובדים עם מגשי פירות יוקרתיים למתנות תאגידיות. עיצובים אלגנטיים, פירות מובחרים ושירות אישי שהופך כל מחווה לבלתי נשכחת. התאימו את המתנה המושלמת עוד היום!
+
+### אודות רעננות ואומנות
+https://-9bbd6af8.zappy5.app/about-freshness-craft
+היכנסו לעולם שבו רעננות פוגשת אומנות. למדו איך אנו בוחרים את הפירות המשובחים ביותר, מעצבים כל מגש באהבה ומבטיחים חוויית טעם ויופי יוצאת דופן. הצטרפו למסע האיכות שלנו!
+
+### צור קשר
+https://-9bbd6af8.zappy5.app/contact
+יש לכם שאלה או בקשה מיוחדת? צרו קשר עם צוות פרי הנורית לייעוץ אישי, הזמנות מותאמות או כל צורך. אנחנו כאן כדי להפוך את הרגע שלכם למתוק ורענן יותר. פנו אלינו עכשיו!
+
+### Products
+https://-9bbd6af8.zappy5.app/products
+המוצרים שלנו - פרי הנורית
+
+### Cart
+https://-9bbd6af8.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-9bbd6af8.zappy5.app/checkout
+תשלום
+
+### Login
+https://-9bbd6af8.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-9bbd6af8.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-9bbd6af8.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-9bbd6af8.zappy5.app/product/:slug
+פרטי המוצר - פרי הנורית
+
+### Category
+https://-9bbd6af8.zappy5.app/category/:slug
+מוצרים - פרי הנורית
+
+### תודה רבה - פרי הנורית
+https://-9bbd6af8.zappy5.app/thank-you
+תודה רבה על פנייתך! הודעתך התקבלה במערכת של פרי הנורית ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9bbd6af8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9bbd6af8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9bbd6af8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פרי הנורית
+An online store specializing in fruit trays and fruit arrangements, offering customers the ability to browse and purchase beautifully curated fruit platters directly through the website. The business focuses on fresh, visually appealing fruit presentations suitable for events, gifts, or personal enjoyment.
+
+## Target Audience
+- קונים למתנות תאגידיות
+- משפחות מודעות לבריאות
+- מתכנני אירועים
+
+## Industry
+E-commerce / Food & Gifts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-9bbd6af8.zappy5.app/sitemap.xml
+- Robots: https://-9bbd6af8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-9bbd6af8.zappy5.app/llms-full.txt
+- Products (JSON): https://-9bbd6af8.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-9bbd6af8.zappy5.app/product-feed.xml
